@@ -17,19 +17,44 @@
 // }
 
 // object
-const student ={
-  firstName: "Kabir",
-  age: 23,
-  dob:"12-12-12",
-  gender:"Male",
-  married: false,
-  bike: ["BMW", "Hero"],
-  address:{
-    primary:"Dhaka"
+/*
+const student =[
+  {
+    id: 1,
+    firstName: "Kabir",
+    age: 23,
+    dob:"12-12-12",
+    gender:"Male",
+    married: false,
+    bike: ["BMW", "Hero"],
+    address:{
+      primary:"Dhaka"
+    },
+    sibling:[
+      {
+      name: "V P",
+      car:["BMW"]
+      }
+    ]
   },
-  sibling:[{
-    name: "V P",
-    car:["BMW"]
-  }]
-}
-console.log(student.sibling[0].car[0])
+  {
+    id: 2,
+    firstName: "Kabir2",
+    age: 23,
+    dob:"12-12-12",
+    gender:"Male",
+    married: false,
+    bike: ["BMW", "Hero"],
+    address:{
+      primary:"Dhaka"
+    },
+    sibling:[
+      {
+      name: "V P",
+      car:["BMW"]
+      }
+    ]
+  }
+]
+*/
+
