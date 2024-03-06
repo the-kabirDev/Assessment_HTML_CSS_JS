@@ -1,0 +1,6 @@
+
+1) Web storage: Cookies, Local storage, session storage
+2) cdn-content delyvery network
+3) http-hypertext transfer protocol
+4) database-relational, non-relational
+

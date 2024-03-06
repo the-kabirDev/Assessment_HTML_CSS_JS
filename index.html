@@ -7,6 +7,7 @@
   </head>
   <body style="background-color: azure">
     <h1
+      id="heading"
       style="
         display: flex;
         justify-content: center;
@@ -17,6 +18,17 @@
     >
       JavaScript practise
     </h1>
+    <p>
+      Lorem ipsum, dolor sit amet consectetur adipisicing elit. Architecto
+      consectetur eum minima iure ab ad impedit modi sunt odit consequuntur
+      animi nisi molestias accusamus laborum esse asperiores alias dolorem
+      quibusdam officiis dolor fuga commodi, cum maiores explicabo? Labore,
+      expedita laboriosam?
+    </p>
+    <script>
+      var a = document.querySelector("#heading");
+      a.innerHTML = "Hihi";
+      console.log(a);
+    </script>
   </body>
 </html>
-<script src="index.js"></script>
